@@ -1,5 +1,5 @@
-<h1>Welcome to the AdvancedMLGRush Wiki repository! Click here to get to the wiki.</h1>
+<h1>Welcome to the AdvancedMLGRush wiki repository!</h1>
 
 *** 
 
-<h2>Click here to get to the wiki.<h2>
+<h2><a href="https://github.com/SkillC0de/AdvancedMLGRush-Wiki/wiki">Click here to get to the wiki.</a><h2>
